@@ -1,0 +1,87 @@
+device: cuda
+No. of training samples: 7000
+No. of testing samples: 200
+No. of training batches: 438
+No. of testing batches: 13
+Training started---
+Epoch: 0 , Total Generator Loss = 143.85662841796875 , Total Discriminator Loss = 27.583545684814453
+Epoch: 1 , Total Generator Loss = 120.1114501953125 , Total Discriminator Loss = 3.1595077514648438
+Epoch: 2 , Total Generator Loss = 113.61994171142578 , Total Discriminator Loss = 1.7974348068237305
+Epoch: 3 , Total Generator Loss = 109.79947662353516 , Total Discriminator Loss = 15.27480411529541
+Epoch: 4 , Total Generator Loss = 106.36138916015625 , Total Discriminator Loss = 2.2146148681640625
+Epoch: 5 , Total Generator Loss = 103.74385833740234 , Total Discriminator Loss = 0.961919903755188
+Epoch: 6 , Total Generator Loss = 101.65727233886719 , Total Discriminator Loss = 7.520349025726318
+Epoch: 7 , Total Generator Loss = 100.44464874267578 , Total Discriminator Loss = 1.2536975145339966
+Epoch: 8 , Total Generator Loss = 97.4548568725586 , Total Discriminator Loss = 0.9105815291404724
+Epoch: 9 , Total Generator Loss = 94.3191909790039 , Total Discriminator Loss = 0.7953607439994812
+Epoch: 10 , Total Generator Loss = 92.29952239990234 , Total Discriminator Loss = 23.624719619750977
+Epoch: 11 , Total Generator Loss = 91.31346893310547 , Total Discriminator Loss = 5.878279685974121
+Epoch: 12 , Total Generator Loss = 90.03913879394531 , Total Discriminator Loss = 1.109140157699585
+Epoch: 13 , Total Generator Loss = 88.53108215332031 , Total Discriminator Loss = 0.9179922938346863
+Epoch: 14 , Total Generator Loss = 88.06786346435547 , Total Discriminator Loss = 1.0456486940383911
+Epoch: 15 , Total Generator Loss = 87.06362915039062 , Total Discriminator Loss = 0.8460239768028259
+Epoch: 16 , Total Generator Loss = 85.96864318847656 , Total Discriminator Loss = 14.43848705291748
+Epoch: 17 , Total Generator Loss = 85.5099868774414 , Total Discriminator Loss = 1.0078555345535278
+Epoch: 18 , Total Generator Loss = 84.46989440917969 , Total Discriminator Loss = 0.8341842293739319
+Epoch: 19 , Total Generator Loss = 83.85181427001953 , Total Discriminator Loss = 1.4586315155029297
+Epoch: 20 , Total Generator Loss = 82.96361541748047 , Total Discriminator Loss = 0.7455425262451172
+Epoch: 21 , Total Generator Loss = 82.33008575439453 , Total Discriminator Loss = 11.019558906555176
+Epoch: 22 , Total Generator Loss = 81.71739196777344 , Total Discriminator Loss = 0.5813153982162476
+Epoch: 23 , Total Generator Loss = 81.36206817626953 , Total Discriminator Loss = 0.5999580025672913
+Epoch: 24 , Total Generator Loss = 80.18484497070312 , Total Discriminator Loss = 0.6433000564575195
+Epoch: 25 , Total Generator Loss = 79.78167724609375 , Total Discriminator Loss = 0.6121533513069153
+Epoch: 26 , Total Generator Loss = 78.55294036865234 , Total Discriminator Loss = 11.152215003967285
+Epoch: 27 , Total Generator Loss = 77.63308715820312 , Total Discriminator Loss = 0.7853026390075684
+Epoch: 28 , Total Generator Loss = 77.35971069335938 , Total Discriminator Loss = 0.3560788035392761
+Epoch: 29 , Total Generator Loss = 76.4716567993164 , Total Discriminator Loss = 0.3451431691646576
+Epoch: 30 , Total Generator Loss = 76.28182220458984 , Total Discriminator Loss = 0.7799025177955627
+Epoch: 31 , Total Generator Loss = 75.75859069824219 , Total Discriminator Loss = 0.35369542241096497
+Epoch: 32 , Total Generator Loss = 75.51332092285156 , Total Discriminator Loss = 0.592867910861969
+Epoch: 33 , Total Generator Loss = 74.82579803466797 , Total Discriminator Loss = 0.6473997235298157
+Epoch: 34 , Total Generator Loss = 73.93260955810547 , Total Discriminator Loss = 0.4743815064430237
+Epoch: 35 , Total Generator Loss = 73.85491180419922 , Total Discriminator Loss = 0.8610866069793701
+Epoch: 36 , Total Generator Loss = 73.19940185546875 , Total Discriminator Loss = 0.4886537194252014
+Epoch: 37 , Total Generator Loss = 72.62528228759766 , Total Discriminator Loss = 0.5618764758110046
+Epoch: 38 , Total Generator Loss = 72.32650756835938 , Total Discriminator Loss = 0.6078241467475891
+Epoch: 39 , Total Generator Loss = 72.00296783447266 , Total Discriminator Loss = 0.654862642288208
+Epoch: 40 , Total Generator Loss = 71.51594543457031 , Total Discriminator Loss = 0.4444984793663025
+Epoch: 41 , Total Generator Loss = 71.01368713378906 , Total Discriminator Loss = 0.43127235770225525
+Epoch: 42 , Total Generator Loss = 70.62914276123047 , Total Discriminator Loss = 3.2137341499328613
+Epoch: 43 , Total Generator Loss = 70.22564697265625 , Total Discriminator Loss = 0.3341275453567505
+Epoch: 44 , Total Generator Loss = 69.96895599365234 , Total Discriminator Loss = 0.27252197265625
+Epoch: 45 , Total Generator Loss = 69.56376647949219 , Total Discriminator Loss = 0.3276565372943878
+Epoch: 46 , Total Generator Loss = 68.98058319091797 , Total Discriminator Loss = 0.4204987585544586
+Epoch: 47 , Total Generator Loss = 68.8421859741211 , Total Discriminator Loss = 0.5949164628982544
+Epoch: 48 , Total Generator Loss = 68.59944915771484 , Total Discriminator Loss = 0.2751877009868622
+Epoch: 49 , Total Generator Loss = 68.18130493164062 , Total Discriminator Loss = 0.38385722041130066
+Epoch: 50 , Total Generator Loss = 67.79109954833984 , Total Discriminator Loss = 0.40515923500061035
+Epoch: 51 , Total Generator Loss = 67.54064178466797 , Total Discriminator Loss = 0.5551115870475769
+Epoch: 52 , Total Generator Loss = 67.21791076660156 , Total Discriminator Loss = 3.742400646209717
+Epoch: 53 , Total Generator Loss = 66.80912780761719 , Total Discriminator Loss = 0.25540053844451904
+Epoch: 54 , Total Generator Loss = 66.40086364746094 , Total Discriminator Loss = 0.17398951947689056
+Epoch: 55 , Total Generator Loss = 66.3230972290039 , Total Discriminator Loss = 0.1724408119916916
+Epoch: 56 , Total Generator Loss = 65.91131591796875 , Total Discriminator Loss = 0.27895015478134155
+Epoch: 57 , Total Generator Loss = 65.67847442626953 , Total Discriminator Loss = 0.2829582989215851
+Epoch: 58 , Total Generator Loss = 65.49376678466797 , Total Discriminator Loss = 0.3517269790172577
+Epoch: 59 , Total Generator Loss = 64.91182708740234 , Total Discriminator Loss = 0.6346379518508911
+Epoch: 60 , Total Generator Loss = 64.77135467529297 , Total Discriminator Loss = 0.3151407539844513
+Epoch: 61 , Total Generator Loss = 64.49053192138672 , Total Discriminator Loss = 0.5733464360237122
+Epoch: 62 , Total Generator Loss = 64.2649154663086 , Total Discriminator Loss = 0.5289454460144043
+Epoch: 63 , Total Generator Loss = 64.02852630615234 , Total Discriminator Loss = 0.3791879415512085
+Epoch: 64 , Total Generator Loss = 64.05110931396484 , Total Discriminator Loss = 0.4878053665161133
+Epoch: 65 , Total Generator Loss = 63.45595932006836 , Total Discriminator Loss = 0.25875043869018555
+Epoch: 66 , Total Generator Loss = 63.267791748046875 , Total Discriminator Loss = 0.5429587960243225
+Epoch: 67 , Total Generator Loss = 62.85359191894531 , Total Discriminator Loss = 0.6857640743255615
+Epoch: 68 , Total Generator Loss = 62.84372329711914 , Total Discriminator Loss = 0.25722065567970276
+Epoch: 69 , Total Generator Loss = 62.53452682495117 , Total Discriminator Loss = 0.31445154547691345
+Epoch: 70 , Total Generator Loss = 62.177738189697266 , Total Discriminator Loss = 0.2457929253578186
+Epoch: 71 , Total Generator Loss = 62.091522216796875 , Total Discriminator Loss = 0.5039353370666504
+Epoch: 72 , Total Generator Loss = 61.55143737792969 , Total Discriminator Loss = 0.6551278829574585
+Epoch: 73 , Total Generator Loss = 61.75416946411133 , Total Discriminator Loss = 0.1744914948940277
+Epoch: 74 , Total Generator Loss = 61.43029022216797 , Total Discriminator Loss = 0.47332504391670227
+Epoch: 75 , Total Generator Loss = 61.329200744628906 , Total Discriminator Loss = 0.3473891019821167
+Epoch: 76 , Total Generator Loss = 60.9879264831543 , Total Discriminator Loss = 0.4315263628959656
+Epoch: 77 , Total Generator Loss = 60.729122161865234 , Total Discriminator Loss = 0.2596518099308014
+Epoch: 78 , Total Generator Loss = 60.511573791503906 , Total Discriminator Loss = 0.6402124762535095
+Epoch: 79 , Total Generator Loss = 60.5574951171875 , Total Discriminator Loss = 0.40562474727630615
+Training finished---
